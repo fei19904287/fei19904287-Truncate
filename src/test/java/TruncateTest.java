@@ -19,6 +19,8 @@ public class TruncateTest {
     public void problem2Test(){
         truncate.problem2();
 
+       
+
         //Write SQL statement here
         String sql = "SELECT * FROM song;";
         int counter = 0;
